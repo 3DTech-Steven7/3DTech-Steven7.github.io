@@ -3,11 +3,11 @@
   <title>3DTech</title>
   
   
-  <link href="http://www.cg3dtech.cn/atom.xml" rel="self"/>
+  <link href="http://www.cgmetabox.com/atom.xml" rel="self"/>
   
-  <link href="http://www.cg3dtech.cn/"/>
-  <updated>2021-12-11T19:24:10.787Z</updated>
-  <id>http://www.cg3dtech.cn/</id>
+  <link href="http://www.cgmetabox.com/"/>
+  <updated>2021-12-12T06:31:24.448Z</updated>
+  <id>http://www.cgmetabox.com/</id>
   
   <author>
     <name>Steven Qiu</name>
@@ -18,31 +18,30 @@
   
   <entry>
     <title>3DTech</title>
-    <link href="http://www.cg3dtech.cn/2021/04/11/3dtech/"/>
-    <id>http://www.cg3dtech.cn/2021/04/11/3dtech/</id>
+    <link href="http://www.cgmetabox.com/2021/04/11/3dtech/"/>
+    <id>http://www.cgmetabox.com/2021/04/11/3dtech/</id>
     <published>2021-04-10T19:49:54.000Z</published>
-    <updated>2021-12-11T19:24:10.787Z</updated>
+    <updated>2021-12-12T06:31:24.448Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="3DTech"><a href="#3DTech" class="headerlink" title="3DTech"></a>3DTech</h2><p>详见微信公众号3DTech</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="3DTech"><a href="#3DTech" class="headerlink" title="3DTech"></a>3DTech</h2><p><a href="https://github.com/3DTech-Steven7/MayaToRizomuv/issues">https://img.shields.io/github/issues/3DTech-Steven7/MayaToRizomuv.svg</a> <a href="https://github.com/3DTech-Steven7/MayaToRizomuv/blob/master/LICENSE"><img src="https://img.shields.io/github/license/3DTech-Steven7/MayaToRizomuv.svg" alt="GitHub license"></a> <a href="https://github.com/3DTech-Steven7/MayaToRizomuv"><img src="https://img.shields.io/github/forks/3DTech-Steven7/MayaToRizomuv.svg" alt="GitHub forks"></a> <a href="https://github.com/3DTech-Steven7/MayaToRizomuv/stargazers"><img src="https://img.shields.io/github/stars/3DTech-Steven7.svg" alt="GitHub stars"></a></p><p>详见微信公众号3DTech</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;3DTech&quot;&gt;&lt;a href=&quot;#3DTech&quot; class=&quot;headerlink&quot; title=&quot;3DTech&quot;&gt;&lt;/a&gt;3DTech&lt;/h2&gt;&lt;p&gt;详见微信公众号3DTech&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h2 id=&quot;3DTech&quot;&gt;&lt;a href=&quot;#3DTech&quot; class=&quot;headerlink&quot; title=&quot;3DTech&quot;&gt;&lt;/a&gt;3DTech&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/3DTech-Steven7/MayaToRizom</summary>
       
     
     
     
     
-    <category term="3DTech" scheme="http://www.cg3dtech.cn/tags/3DTech/"/>
+    <category term="3DTech" scheme="http://www.cgmetabox.com/tags/3DTech/"/>
     
   </entry>
   
   <entry>
     <title>MayaToRizomUV</title>
-    <link href="http://www.cg3dtech.cn/2021/04/11/mayatorizomuv/"/>
-    <id>http://www.cg3dtech.cn/2021/04/11/mayatorizomuv/</id>
+    <link href="http://www.cgmetabox.com/2021/04/11/mayatorizomuv/"/>
+    <id>http://www.cgmetabox.com/2021/04/11/mayatorizomuv/</id>
     <published>2021-04-10T19:49:54.000Z</published>
     <updated>2021-12-11T19:31:41.785Z</updated>
     
@@ -57,7 +56,7 @@
     
     
     
-    <category term="Plugins" scheme="http://www.cg3dtech.cn/tags/Plugins/"/>
+    <category term="Plugins" scheme="http://www.cgmetabox.com/tags/Plugins/"/>
     
   </entry>
   
